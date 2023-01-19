@@ -20,6 +20,11 @@ Norm_of_matrix="{:.2f}".format(ans)
 print(Norm_of_matrix)
 
 
+
+
+
+
+
 # 2-Norm of a Matrix
 import numpy as np
 mat=np.array(eval(input()))
